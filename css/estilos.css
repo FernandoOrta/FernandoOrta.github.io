@@ -4,9 +4,14 @@ p {
 }
 
 body {
-    background-color: black;
+        background-color: black;
+
 }
 
 h1 {
     color:aqua;
+}
+
+h2 {
+    color:aquamarine;
 }
